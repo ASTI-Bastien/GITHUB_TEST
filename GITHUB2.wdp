@@ -28,6 +28,12 @@ project :
   identifier : 0x4abbd2ab1d6dbbfb
   elements :
    -
+     name : ProcéduresGlobales
+     identifier : 0x4abbd3ed1dc2a5db
+     internal_properties : IQAAACAAAADwDKy4ntO5RS2gXAN87Gxv2GGDNRwtYGNVFrSAGHX+FY0K9fkqCBkRlxUUsUjN/jVShsbO8m5v6S8Z
+     physical_name : .\ProcéduresGlobales.wdg
+     type : 7
+   -
      name : FEN_TEST
      identifier : 0x4abbd2bf1da5074d
      internal_properties : IQAAACAAAADuNqq6mM2jo4+KNq3WVr6ooItrsadXSkWLyPQrGHVeiYkCuW1y6aS8Aj7O/55nZJ886KDk6HBt5ykD

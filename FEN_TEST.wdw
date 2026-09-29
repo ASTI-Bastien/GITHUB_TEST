@@ -18,9 +18,9 @@ window :
   heightClient : 736
  controls :
   -
-    name : BTN_SansNom1
+    name : BTN_Bouton1
     identifier : 0x2abbd2d5b6ba5cfe
-    internal_properties : IQAAACAAAACjlQw9xmSAtZYtJ7VhkUY1H2t61ALo5uGX0vYkuKrW7GWa9SR+TikZXRXMAUVkNYiJ+ZYH+WlhzEf+skct1zji/A+IQQt2MH9fRoseUojiqjqRL34ZRdlHim8nB+b6UoRHnihBWXg+I8HG3YVWIKErWc/BJaWbyxXCLoJknUFa2gZYyBkxdUqfCUOS+WtW3fNLx4nt8tSFThPJ7c7XOoLCB5Z7/71pmJFNB6Q3yKQ61L3nHaGwBtDV3AD/Gxy6gIgcSlzcTASK+CFk9acUykDl5+9hZUR7cJeq8gXZ0xYIycYiYp77ZmpB1fcZL9/Esb8DoUcAS5KENS7PkHvMXd8YjeLlA+FEQaeIp4xT2u7uglAp28tM82MVo1LLywaqqMO+o0KF39Jfwz5mqxpXnjIQkqfXtvMiNB8+zDACx70Jbf7Ku2e2ZcvmJoU0kkwvdY5cMy1dmjDObZc7brnhi4u6CglVE/F6VIuj60LkwKcLvcNB6Qd/o9z6OQzNY95nLUYRFElYUqbdLCz6qlOf7GMjRbPSSVwzNONs2nv4sc2nmHteesgTskWG+7A7DhSFBpuWVDVCGDxV0OQE2Mah+81FgkJIts0dTtvGSZEr36LvTqQm3aZerpgBqjW6ehl17KN2G7CRbd/W0MvuY51BBZSIjG1wfIljazC3f+AYtXW688VU28k4B1wdThzdTF7lm/DyTYzjTsJ6jovH4fKWGMsh0S74gb9EC5HWn6Ul5zuAdC+d+4sGL1titjOJhKU9kxmktFQW6yNNOrAZwB+K9nMUb0oEloABlATOKC187PxpA0aNffmxjpVV/RR4zKSboBn3rBDbj0UcQd2bty6MygxpFwSA0AIGLaobfEO8Jj+PozcKt4Y+Eh1NCOYfmeM/FwVAxUJDuWd6OsREAuS7IT32LKmZCws1CKMFGHdTBr8TDEaKjQZJFvWqoB5Dt/cYZej8URGNOgKfuQEXRxaz1aT54XdslmaCUtpOZ1pU4NFT1Y2fpUxJzbpA1ua5zIScCVRpBu+8tu4dA7/rTFJCNobkyGT4dD//YR9fLZEKPXM6VvqXilmrnxdlfZ+b85Rs5QOLfEGvGRUFXR/pik01C3ZmgExpIDsNGVSEIraNZb67ZsNPOF0psnY6N15/ZA==
+    internal_properties : IQAAACAAAADHMUZGf4ro67MZEifl0VA1/He2bdqvgkx7MsdR3WNYd589l/g6aJ4JWx1SfRpWZkeW50ZvNyhxik+KoDMXmofGLEtBmyUGH7IwOH54grGpnmpUYzCQ0925MUPd+4y0KAHkUjEu4318qh6bs7cdf+ih4MS/3Zdl+uLwSvhbiDxj6aRHfjZXbufthEu4UND4EIXQA1p1Tw3BsTLFI7vIM85OH1KZ1llJ7cWTlEYzpifdtVCB+2WaRt88XA3TvlljiuRemLAS6QFX3sYESHkbG+SnEXwu4PjWarPDVc9lLCJQ2YiKnDRU+2S2amJFs4BpgyizcauA1S9XEZWK7In+WrC37RK1nkjBKS1ByjBQSSm7Y7u22LxWKEycg1pushCg9X75NKuLhWqW6QNmtbHxvm+GoKPZ7tDiDaER+TmyGfIwhY6AG+OKlRow6WoBhNQj6Hs1DFq6UKDboKCmQSNrbT89Yr0ZF7clhIBKHX5DtqHdJAfJTaV3JNfukgPundD2QvRudSB3dl3YwxAdWx2XU/7e63VY6OZgOcVYKWAHz4hXa0IVYwPoXx4HaGW8uymMmqXmdGb+scKsTzCA/W8careb6+45GKtjI3v8MRT3a1jRvFuTCOCraoyITORFv9VP9M3Y2vhRtQQ5b7PgA6krRRLnbfrHM7DcIFK5jWw1tMDHj/ffKDMzdCXuR7xMczZ0Uim/6ZXZmQLyrAPqQcxP8jPL3NWltgEQr/B9l5PeUREFv6vPJ1PdqQ6p0snEI0oXrC1XP70GiAqIehnpbAnjq4UDWh3j4TuPPBsIGagT0D6bBvvRiKs9i1hZmD6AjCMHFgBcHLELQuEEDrGECgs4wVLe+3PGy2bLnqjsiM0qV0Sg2X2hsurNXDfcsruCuqdZWVaYiHyJim/CM5RhgSS25EpxeV/2zjRTaJLt4PjucGzQFgYtpLOUddxlElIH5z9Qjwj0Dy3lbwWmaBVTvbxByyCQEJwHINVUGzXp1Y37PLLVqW/tnSv4RXh/WBdICUjen8AQ8tHiJ9dBBYN09EXuXDomBU/fIRiWAL+tm5LqHkgqVUUh57mOOZtjY4ucF8wKnjNvOt9TqDxu7kL/4F9zF9JZ4acVhWHKvl/ICEmSuSwr9Aw8H0IZ2ytL3j4TzBuqEA==
     properties :
      x : 37
      y : 65
@@ -32,6 +32,54 @@ window :
     code_elements :
      type_code : 4
      p_codes :
+      -
+        code : |1+
+         info("HELLO WORD")
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : BTN_Bouton2
+    identifier : 0x2abbd3c6b6c40bcd
+    internal_properties : IQAAACAAAACUn4391uV+RfNZSe6eqO0Hiqvqms8H+eCAWmU3Kh3p/NJbR90zwKt4tigitmDq/rf0VQ7C78NbBp5mMk/aHxwnUocYrQAEfoFvhsKfeXDh4tMJ3at7v93wcibl+2bkhmxzbs7x12m8sBNISrOqUkftbb8IxTqdyNyoGONU3FyplV3+9e/CL0arqwoqnVjU/315GhJyYJvbqrsWEn6K3vbZR9WQqk+eEFB0TNiXE1obGLTtXijQYGTul7bU/Vz5lfuSdILGGUByiELxJzldJMYeL1mk5HglI4uhBdoGbHjJFc76q4Adudldc7qARbiyvR4AvCoGSCfK0OIkUNmVSj9QVQ40GbJ7UwV6xt7Vr0mPfjy5s3VNb4rKZ6NHVtROTAl040JZUwb4+5bsgabHowjyMqQLxUtfbi5+yloLHDtUrBKUpoWAS1y9o5AwRCI4u3g1emhLzRKihuUbK+4y7+cRFwx2ui80ODrm5J4g5tu5YmKNR78AVzTlGEvQ+u5GDvf4KWwNvfVb2dl11W1XxpNNQzw8pIXSK9QuuvRDp681KAlayEkUg+oumrZ4/3Z9UNqkojhvlOz9RJZQ+cX+69GenxJhERLh4rKclczZwdWlR+kJgvdIyvsZbo7bK82sXLoYjDbU0vRUJivqUf2TfrwOc64nMH+YC7+Zd3Kjrl+3kPn1AlymDIC1zxzQ4QhZZojLt3dGXFoDU0tW2R4doY+YHKHFNzj+ktebrWUwF3SzLLs345QwEZHQXsfOIfxcwighX6mJhZoJP0P3TkO5dr3EehcZiMAt6YAmpyo95kfzzwOd6FjEDw+YdJwKLtHEiP+M5ufolVOTe6vS5NWe2Cjj/UfOAG3XdS0q5LViO48+Tt8NQnf8sIJDZI/KdP2SpX2wSBAIfy1pjLhhvRBusQxW4SHc5YUH6xkrqNzM+i+KsfBfstYRO7u80BZn3UFF/dumZ5FEfFXD5WPH3dBh1ADnFvCHv8JyTCgp0/+jOMk9ejHXG+CvEWWG6tugbaBNXzXEBgkNUGMMLAOmWlsAQcCVc+sHuL3OayQZxXjc/IUEpOe561IRE7gqr1+bAEVwOb965e7l5Bs4UFGYbaISi89zNih6XBOjyvHN0bb5hMrmzhfJ8PJXere9Zs0PFT7Q7YGQ
+    properties :
+     x : 362
+     y : 65
+     width : 106
+     height : 31
+     accelerator_key : 65535
+     tab_order : 1
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1+
+         hello_fresh()
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : BTN_Bouton3
+    identifier : 0x2abbd41bb6c659e9
+    internal_properties : IQAAACAAAABEsBX9hOoP884cJCHshB+bkQnr71FZz7HEgfzUp4oebPfCsxH+crbVREwYUKnHQxZmKbTVxkOnQcx/+HSFMUivNzr3TfPqhVEbBPAk/MGdLWzHPZWKPcwqLN+3D8gGwQSAVdhHPsWQrAoqJekBfzrqXU25U/b6j26uyOjqTxoGNH6GsC8VIjdKs85GV0S7xiPRltc0aUgAJk/9Gnp0u+BowCBMZFdYGG4fX/wHKxHDOdYJzpiJiL0y5k6uMlNmbjNiCiVnYHjuq7uK8pjWO39sfb4jqnO3LbpCCj1/uqm+yUGhAQUHzTK19lj8K3kMWmg/lCP76m1TAB9V8RC3zi+mOq2MlgQB+jTyNg/aEDQXkM3TfYLYqrtYk5hJ4WUCLdOZ1s5ZuPrYPZPKJwMmEXbW8pbLtvNs5pOLvsRGIbRGnq+FlFmJk/Gw3rnrFbhWIzzkZtN4cOAkMvK05vFUwFsn4tWXO2dF9a4qQ7McfpUAD7r1OY5plbaXtRsOo92oikZ56gIlW0dyX3Wnn3XOdvJQlubfo970Kvfnirywwk+G5IP0PvZZQUmBMjSZocIh9cdlnE5OgnXSPUbDRo9Hi57CRNAFfCcbxdIV0tU1Ya4j08jm0mpBkNgUkLmO/KjbZ6CNxRNWYlKbtsqhDKADhO863kl4RcLTB4mGqViDBqiuEvXSx8TghDPeSl1ocHcmDmcdTWGADDYrBXA86B+ynwJ3JIuvHJ1UsIt/4JhGm4izALPflJZ8kBNm+kVQl/aGo0ds2owqFCaFHWpOg08hI8YKJcgG3btAxV/obodwjfFOO+3tBPwAoYxn9bLHpvni9B/pGT2dUZyPt9lp/UDsoU6HbbBrxbj/Obftd55dZ2ag+ogWdynEU37sVGL5yOe2Zcdj9uT0SV2RwLlUMGergu4Zd1nMuTb/41H0s3RiHJC6acYkgKDDhzyAIVXVXe2Z4+vvxVRDYUwhUk6bTbgEsstIfuP2U/oFJOxTa9f3UfKkcVnob4F/+FWcXaZXBIFtyE6Df4Gr27pHpDcbBrOtZaOcm94FQqwXlepAIQ1oRTU+jjv5X1DZhsBJw1TmiJjJkfNzA5qe8YRPdWj+VqGGUs5DFpZrOZb7fSQN/q9BeLLvbRlpmGQm1tiLUKXqNZwpkw==
+    properties :
+     x : 553
+     y : 65
+     width : 106
+     height : 31
+     accelerator_key : 65535
+     tab_order : 2
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1+
+         hello_pas()
+        type : 18
       -
         type : 161
         enabled : false
@@ -84,6 +132,22 @@ window :
       
       
      type : 2
+  procedures :
+   -
+     name : hello_pas
+     procedure_id : 1926366617766647247
+     type_code : 14
+     code : |1+
+      //!
+      //! @brief <indiquez ici ce que fait la procédure>
+      //!
+      //!
+      
+      procédure privée hello_pas()
+      info("HELLO PAS !")
+     type : 458752
+  procedure_templates : []
+  property_templates : []
  code_parameters :
   internal_properties : IQAAACAAAAA7DJ4vFwXpXFkgSYJm1KBm+pI1Z6cLVUJuN5jUNtC4+Lz8WOmCt+Nxt+v5KGaQfP3CgIz4KNVKfBQVN+ntsJ5byVyLN+EvpKCvjHO7AzOQuXNQ1ssQroXu2TE=
   original_name : Modele1
